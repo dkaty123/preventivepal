@@ -1,6 +1,6 @@
 # Welcome to your Lovable project
 
-This project is tem
+This project is temp (delete la
 ## Project info
 
 **URL**: https://lovable.dev/projects/adcd975e-1232-424c-8466-aff6b584bdb9
