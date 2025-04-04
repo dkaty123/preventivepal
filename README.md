@@ -5,7 +5,7 @@ Bookd new name
 
 **URL**: https://lovable.dev/projects/adcd975e-1232-424c-8466-aff6b584bdb9
 
-## How can I edit this code?
+## How can I edit this code? (Not updated)
 
 There are several ways of editing your application.
 
