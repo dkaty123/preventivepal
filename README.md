@@ -1,6 +1,6 @@
  # Welcome to your Lovable project
 
-Bookd new name
+Bookd new name (test part)
 ## Project info
 
 **URL**: https://lovable.dev/projects/adcd975e-1232-424c-8466-aff6b584bdb9
